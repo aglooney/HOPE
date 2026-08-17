@@ -19,7 +19,7 @@ The **Holistic Optimization Program for Electricity (HOPE)** model is a transpar
 
 1. `GTEP` mode: a generation & transmission expansion planning model
 2. `PCM` mode: a production cost model
-3. `DART` mode: (under development): a SCUC/SCED market model for simulating day-ahead and real-time markets
+3. `DART` mode: a SCUC/SCED market model for simulating day-ahead and real-time markets
 4. `OPF` mode: (under development): an optimal power flow model
 5. `HOPE-AI` mode: an AI agent helps connect all HOPE modules and enables complex modeling workflows. The current HOPE-AI framework is powered by [PowerAgent](https://github.com/Power-Agent), while more specialized agents are under development.
 
@@ -28,7 +28,7 @@ Users can select the proper mode of HOPE based on their research needs. Each mod
 The HOPE model was originally developed by a team of researchers in Prof. [Benjamin F. Hobbs's group](https://hobbsgroup.johnshopkins.edu/) at [Johns Hopkins University](https://www.jhu.edu/). The main contributors for Verson 1 include Dr. [Shen Wang](https://ceepr.mit.edu/people/wang/), Dr. [Mahdi Mehrtash](https://www.mahdimehrtash.com/), and [Zoe Song](https://pwrlab.org/team.html). The current developers include [Ziting Huang](https://hobbsgroup.johnshopkins.edu/members.html), etc.
 
 Current HOPE model is also maintaining by researchers at MIT, including Shen Wang, Dr. [Juan Senga](https://ceepr.mit.edu/people/senga/) and Prof. [Christopher Knittel](https://mitsloan.mit.edu/faculty/directory/christopher-knittel).
-
+The `DART` mode development is lead by [Aidan Looney](https://www.linkedin.com/in/aidan-looney-3142582b8/) at Harvard University.
 The HOPE-AI module is developed in collaboration with [Qian Zhang](https://seas.harvard.edu/person/qian-zhang) at Harvard University.
 
 > **Looking for the legacy Maryland-focused version?** The pre-v2 codebase is archived at [HOPE-MD](https://github.com/HOPE-Model-Project/HOPE-MD).
